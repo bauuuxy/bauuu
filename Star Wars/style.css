@@ -1,0 +1,100 @@
+
+body{
+    background-image: url(https://media.istockphoto.com/id/1283307885/es/vector/fondo-de-textura-vectorial-stippled-puntos-blancos-sobre-negro.jpg?s=612x612&w=0&k=20&c=0zPPQr36-FeVrVaZXxUKUwglkUfIJvQJ-wQf41zB0Rc=);
+    background-attachment: scroll;
+    background-repeat: repeat-y;
+    background-size: 100%;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    color: white;
+
+}
+#imperio{
+    font-size: x-large;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.521); width: 1000px; width: 80%; margin-left: 10%;
+    border: 2px solid white;
+    text-align: center;
+    overflow: hidden;
+    border: solid goldenrod;
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: dashed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.titleimper{
+    color: white;
+    font-size: xx-large;
+}
+.apoyo1{
+    text-align: center;
+}
+.apoyo2{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+.darth{
+    margin-right: 25px;
+    font-size: xx-large;
+}
+#rebeld{
+   border: 2px solid white;
+    background-color: rgba(0, 0, 255, 0.521); width: 1000px; width: 80%; margin-left: 10%;
+    overflow: hidden;
+    border: solid goldenrod;
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: dashed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.titlerebeld{
+    color: white;
+    font-size: xx-large;
+}
+.luke{
+    color: white;
+    font-family: italic;
+    font-size: xx-large;
+}
+.droid{
+    color: white;
+    font-size: x-large;
+}
+.soldier{
+    letter-spacing: 2mm;
+    border-radius: 10%;
+    border-width: 50%;
+    border-color: rgb(255, 255, 255);
+    border-style: groove;
+}
+.tie{
+    text-align: center;
+}
+.nave{
+    text-transform:uppercase;
+    color: white;
+    font-size: x-large;
+}
+#apoyo2{
+    border: 2px solid white;
+    background-color: rgba(0, 0, 255, 0.521); width: 1000px;  width: 80%; margin-left: 10%;
+    overflow: hidden;
+    border: solid goldenrod;
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: dashed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.imadr{
+    text-align: center;
+}
